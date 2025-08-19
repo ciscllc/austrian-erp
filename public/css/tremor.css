@@ -1,0 +1,101 @@
+/* Austrian ERP - Tremor CSS Framework */
+
+:root {
+  --tremor-brand: #3b82f6;
+  --tremor-brand-muted: #eff6ff;
+  --tremor-background: #ffffff;
+  --tremor-foreground: #111827;
+  --tremor-muted-foreground: #6b7280;
+  --tremor-border: #e5e7eb;
+  --tremor-ring: #3b82f6;
+  --tremor-radius: 0.5rem;
+}
+
+/* Buttons */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--tremor-radius);
+  font-size: 0.875rem;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  transition: all 0.2s;
+}
+
+.btn-primary {
+  background-color: var(--tremor-brand);
+  color: white;
+  border: 1px solid var(--tremor-brand);
+}
+
+.btn-primary:hover {
+  background-color: #2563eb;
+}
+
+.btn-secondary {
+  background-color: white;
+  color: var(--tremor-foreground);
+  border: 1px solid var(--tremor-border);
+}
+
+.btn-secondary:hover {
+  background-color: var(--tremor-brand-muted);
+}
+
+/* Cards */
+.card {
+  background: var(--tremor-background);
+  border: 1px solid var(--tremor-border);
+  border-radius: var(--tremor-radius);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+/* Forms */
+.form-input {
+  width: 100%;
+  border: 1px solid var(--tremor-border);
+  border-radius: var(--tremor-radius);
+  padding: 0.5rem 0.75rem;
+  font-size: 0.875rem;
+}
+
+.form-input:focus {
+  outline: none;
+  border-color: var(--tremor-brand);
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+/* Grid */
+.grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.grid-cols-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.grid-cols-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+
+/* Spacing */
+.space-y-2 > * + * { margin-top: 0.5rem; }
+.space-y-4 > * + * { margin-top: 1rem; }
+.space-y-6 > * + * { margin-top: 1.5rem; }
+
+/* Text */
+.text-sm { font-size: 0.875rem; }
+.text-lg { font-size: 1.125rem; }
+.text-xl { font-size: 1.25rem; }
+.text-2xl { font-size: 1.5rem; }
+.text-3xl { font-size: 1.875rem; }
+
+.text-gray-500 { color: #6b7280; }
+.text-gray-600 { color: #4b5563; }
+.text-gray-700 { color: #374151; }
+.text-gray-900 { color: #111827; }
+
+.bg-white { background-color: white; }
+.bg-gray-50 { background-color: #f9fafb; }
+.bg-gray-100 { background-color: #f3f4f6; }
+.bg-blue-600 { background-color: #2563eb; }
+.bg-blue-700 { background-color: #1d4ed8; }
+
+.border-gray-300 { border-color: #d1d5db; }

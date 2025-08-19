@@ -1,0 +1,27 @@
+/* Tremor CSS Framework */
+:root {
+  --tremor-border-radius: 0.5rem;
+  --tremor-brand: #3b82f6;
+  --tremor-brand-subtle: #f1f5f9;
+  --tremor-text: #374151;
+  --tremor-text-subtle: #6b7280;
+}
+
+/* Flakes CSS Framework */
+:root {
+  --flakes-primary: #0f766e;
+  --flakes-secondary: #0891b2;
+  --flakes-surface: #f8fafc;
+  --flakes-border: #e2e8f0;
+}
+
+/* Bootstrap-like Utilities */
+.btn {
+  @apply px-4 py-2 rounded-md font-medium transition-colors;
+}
+.btn-primary { @apply bg-blue-600 text-white hover:bg-blue-700; }
+.btn-secondary { @apply bg-gray-200 text-gray-800 hover:bg-gray-300; }
+
+.card {
+  @apply bg-white border border-gray-200 rounded-lg shadow-sm;
+}

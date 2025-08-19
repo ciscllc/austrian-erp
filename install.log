@@ -1,0 +1,438 @@
+[2025-08-18 10:43:29] Executing: composer install --optimize-autoloader --no-dev --no-interaction
+[2025-08-18 10:43:34] Output: PHP Deprecated:  Composer\Console\Application::run(): Implicitly marking parameter $input as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Console/Application.php on line 117
+
+Deprecated: Composer\Console\Application::run(): Implicitly marking parameter $input as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Console/Application.php on line 117
+PHP Deprecated:  Composer\Console\Application::run(): Implicitly marking parameter $output as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Console/Application.php on line 117
+
+Deprecated: Composer\Console\Application::run(): Implicitly marking parameter $output as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Console/Application.php on line 117
+PHP Deprecated:  Symfony\Component\Console\Application::run(): Implicitly marking parameter $input as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Application.php on line 115
+
+Deprecated: Symfony\Component\Console\Application::run(): Implicitly marking parameter $input as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Application.php on line 115
+PHP Deprecated:  Symfony\Component\Console\Application::run(): Implicitly marking parameter $output as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Application.php on line 115
+
+Deprecated: Symfony\Component\Console\Application::run(): Implicitly marking parameter $output as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Application.php on line 115
+PHP Deprecated:  Constant E_STRICT is deprecated in /usr/share/php/Composer/Util/Silencer.php on line 36
+
+Deprecated: Constant E_STRICT is deprecated in /usr/share/php/Composer/Util/Silencer.php on line 36
+PHP Deprecated:  Composer\Factory::createConfig(): Implicitly marking parameter $io as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Factory.php on line 167
+
+Deprecated: Composer\Factory::createConfig(): Implicitly marking parameter $io as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Factory.php on line 167
+PHP Deprecated:  Composer\Factory::createDownloadManager(): Implicitly marking parameter $eventDispatcher as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Factory.php on line 478
+
+Deprecated: Composer\Factory::createDownloadManager(): Implicitly marking parameter $eventDispatcher as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Factory.php on line 478
+PHP Deprecated:  Composer\Factory::createPluginManager(): Implicitly marking parameter $globalComposer as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Factory.php on line 544
+
+Deprecated: Composer\Factory::createPluginManager(): Implicitly marking parameter $globalComposer as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Factory.php on line 544
+PHP Deprecated:  Composer\Factory::createInstallationManager(): Implicitly marking parameter $eventDispatcher as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Factory.php on line 552
+
+Deprecated: Composer\Factory::createInstallationManager(): Implicitly marking parameter $eventDispatcher as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Factory.php on line 552
+PHP Deprecated:  Composer\Factory::createDefaultInstallers(): Implicitly marking parameter $process as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Factory.php on line 562
+
+Deprecated: Composer\Factory::createDefaultInstallers(): Implicitly marking parameter $process as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Factory.php on line 562
+PHP Deprecated:  Symfony\Component\Console\Formatter\OutputFormatterStyle::__construct(): Implicitly marking parameter $foreground as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Formatter/OutputFormatterStyle.php on line 65
+
+Deprecated: Symfony\Component\Console\Formatter\OutputFormatterStyle::__construct(): Implicitly marking parameter $foreground as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Formatter/OutputFormatterStyle.php on line 65
+PHP Deprecated:  Symfony\Component\Console\Formatter\OutputFormatterStyle::__construct(): Implicitly marking parameter $background as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Formatter/OutputFormatterStyle.php on line 65
+
+Deprecated: Symfony\Component\Console\Formatter\OutputFormatterStyle::__construct(): Implicitly marking parameter $background as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Formatter/OutputFormatterStyle.php on line 65
+PHP Deprecated:  Symfony\Component\Console\Formatter\OutputFormatterStyleStack::__construct(): Implicitly marking parameter $emptyStyle as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Formatter/OutputFormatterStyleStack.php on line 29
+
+Deprecated: Symfony\Component\Console\Formatter\OutputFormatterStyleStack::__construct(): Implicitly marking parameter $emptyStyle as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Formatter/OutputFormatterStyleStack.php on line 29
+PHP Deprecated:  Symfony\Component\Console\Formatter\OutputFormatterStyleStack::pop(): Implicitly marking parameter $style as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Formatter/OutputFormatterStyleStack.php on line 58
+
+Deprecated: Symfony\Component\Console\Formatter\OutputFormatterStyleStack::pop(): Implicitly marking parameter $style as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Formatter/OutputFormatterStyleStack.php on line 58
+PHP Deprecated:  Symfony\Component\Console\Output\ConsoleOutput::__construct(): Implicitly marking parameter $decorated as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Output/ConsoleOutput.php on line 40
+
+Deprecated: Symfony\Component\Console\Output\ConsoleOutput::__construct(): Implicitly marking parameter $decorated as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Output/ConsoleOutput.php on line 40
+PHP Deprecated:  Symfony\Component\Console\Output\ConsoleOutput::__construct(): Implicitly marking parameter $formatter as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Output/ConsoleOutput.php on line 40
+
+Deprecated: Symfony\Component\Console\Output\ConsoleOutput::__construct(): Implicitly marking parameter $formatter as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Output/ConsoleOutput.php on line 40
+PHP Deprecated:  Symfony\Component\Console\Output\StreamOutput::__construct(): Implicitly marking parameter $decorated as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Output/StreamOutput.php on line 42
+
+Deprecated: Symfony\Component\Console\Output\StreamOutput::__construct(): Implicitly marking parameter $decorated as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Output/StreamOutput.php on line 42
+PHP Deprecated:  Symfony\Component\Console\Output\StreamOutput::__construct(): Implicitly marking parameter $formatter as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Output/StreamOutput.php on line 42
+
+Deprecated: Symfony\Component\Console\Output\StreamOutput::__construct(): Implicitly marking parameter $formatter as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Output/StreamOutput.php on line 42
+PHP Deprecated:  Symfony\Component\Console\Output\Output::__construct(): Implicitly marking parameter $formatter as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Output/Output.php on line 40
+
+Deprecated: Symfony\Component\Console\Output\Output::__construct(): Implicitly marking parameter $formatter as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Output/Output.php on line 40
+PHP Deprecated:  Symfony\Component\Console\Input\ArgvInput::__construct(): Implicitly marking parameter $argv as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Input/ArgvInput.php on line 49
+
+Deprecated: Symfony\Component\Console\Input\ArgvInput::__construct(): Implicitly marking parameter $argv as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Input/ArgvInput.php on line 49
+PHP Deprecated:  Symfony\Component\Console\Input\ArgvInput::__construct(): Implicitly marking parameter $definition as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Input/ArgvInput.php on line 49
+
+Deprecated: Symfony\Component\Console\Input\ArgvInput::__construct(): Implicitly marking parameter $definition as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Input/ArgvInput.php on line 49
+PHP Deprecated:  Symfony\Component\Console\Input\Input::__construct(): Implicitly marking parameter $definition as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Input/Input.php on line 36
+
+Deprecated: Symfony\Component\Console\Input\Input::__construct(): Implicitly marking parameter $definition as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Input/Input.php on line 36
+PHP Deprecated:  Symfony\Component\Console\Helper\HelperSet::setCommand(): Implicitly marking parameter $command as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Helper/HelperSet.php on line 85
+
+Deprecated: Symfony\Component\Console\Helper\HelperSet::setCommand(): Implicitly marking parameter $command as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Helper/HelperSet.php on line 85
+PHP Deprecated:  Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Console/Helper/HelperSet.php on line 103
+
+Deprecated: Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Console/Helper/HelperSet.php on line 103
+PHP Deprecated:  Symfony\Component\Console\Helper\Helper::setHelperSet(): Implicitly marking parameter $helperSet as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Helper/Helper.php on line 28
+
+Deprecated: Symfony\Component\Console\Helper\Helper::setHelperSet(): Implicitly marking parameter $helperSet as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Helper/Helper.php on line 28
+PHP Deprecated:  Symfony\Component\Console\Helper\HelperInterface::setHelperSet(): Implicitly marking parameter $helperSet as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Helper/HelperInterface.php on line 24
+
+Deprecated: Symfony\Component\Console\Helper\HelperInterface::setHelperSet(): Implicitly marking parameter $helperSet as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Helper/HelperInterface.php on line 24
+PHP Deprecated:  Composer\Util\ErrorHandler::register(): Implicitly marking parameter $io as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Util/ErrorHandler.php on line 76
+
+Deprecated: Composer\Util\ErrorHandler::register(): Implicitly marking parameter $io as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Util/ErrorHandler.php on line 76
+Deprecation Notice: Symfony\Component\Console\Command\Command::__construct(): Implicitly marking parameter $name as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Command/Command.php:69
+Deprecation Notice: Symfony\Component\Console\Command\Command::setApplication(): Implicitly marking parameter $application as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Command/Command.php:90
+Deprecation Notice: Symfony\Component\Console\Input\InputArgument::__construct(): Implicitly marking parameter $mode as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Input/InputArgument.php:41
+Deprecation Notice: Symfony\Component\Console\Input\InputOption::__construct(): Implicitly marking parameter $mode as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Input/InputOption.php:44
+Deprecation Notice: Composer\Command\InitCommand::determineRequirements(): Implicitly marking parameter $platformRepo as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Command/InitCommand.php:420
+Deprecation Notice: Composer\Command\InitCommand::findBestVersionAndNameForPackage(): Implicitly marking parameter $platformRepo as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Command/InitCommand.php:727
+Deprecation Notice: Composer\Command\CreateProjectCommand::installRootPackage(): Implicitly marking parameter $repositories as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Command/CreateProjectCommand.php:309
+Deprecation Notice: Composer\Command\ShowCommand::printPackageInfo(): Implicitly marking parameter $latestPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Command/ShowCommand.php:622
+Deprecation Notice: Composer\Command\ShowCommand::printMeta(): Implicitly marking parameter $latestPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Command/ShowCommand.php:650
+Deprecation Notice: Composer\Command\ShowCommand::printPackageInfoAsJson(): Implicitly marking parameter $latestPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Command/ShowCommand.php:796
+Deprecation Notice: Composer\Command\ArchiveCommand::archive(): Implicitly marking parameter $composer as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Command/ArchiveCommand.php:110
+Deprecation Notice: Symfony\Component\Console\Helper\ProcessHelper::run(): Implicitly marking parameter $callback as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Helper/ProcessHelper.php:39
+Deprecation Notice: Symfony\Component\Console\Helper\ProcessHelper::mustRun(): Implicitly marking parameter $callback as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Helper/ProcessHelper.php:109
+Deprecation Notice: Symfony\Component\Console\Helper\ProcessHelper::wrapCallback(): Implicitly marking parameter $callback as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Helper/ProcessHelper.php:125
+Deprecation Notice: Composer\Json\JsonFile::__construct(): Implicitly marking parameter $httpDownloader as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Json/JsonFile.php:51
+Deprecation Notice: Composer\Json\JsonFile::__construct(): Implicitly marking parameter $io as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Json/JsonFile.php:51
+Deprecation Notice: JsonSchema\Constraints\BaseConstraint::__construct(): Implicitly marking parameter $factory as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/BaseConstraint.php:41
+Deprecation Notice: JsonSchema\Constraints\BaseConstraint::addError(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/BaseConstraint.php:46
+Deprecation Notice: JsonSchema\Constraints\BaseConstraint::addError(): Implicitly marking parameter $more as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/BaseConstraint.php:46
+Deprecation Notice: JsonSchema\Constraints\Factory::__construct(): Implicitly marking parameter $schemaStorage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/Factory.php:76
+Deprecation Notice: JsonSchema\Constraints\Factory::__construct(): Implicitly marking parameter $uriRetriever as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/Factory.php:76
+Deprecation Notice: JsonSchema\Constraints\Constraint::incrementPath(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/Constraint.php:42
+Deprecation Notice: JsonSchema\Constraints\Constraint::checkArray(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/Constraint.php:63
+Deprecation Notice: JsonSchema\Constraints\Constraint::checkObject(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/Constraint.php:81
+Deprecation Notice: JsonSchema\Constraints\Constraint::checkType(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/Constraint.php:98
+Deprecation Notice: JsonSchema\Constraints\Constraint::checkUndefined(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/Constraint.php:114
+Deprecation Notice: JsonSchema\Constraints\Constraint::checkString(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/Constraint.php:131
+Deprecation Notice: JsonSchema\Constraints\Constraint::checkNumber(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/Constraint.php:147
+Deprecation Notice: JsonSchema\Constraints\Constraint::checkEnum(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/Constraint.php:163
+Deprecation Notice: JsonSchema\Constraints\Constraint::checkFormat(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/Constraint.php:179
+Deprecation Notice: JsonSchema\Constraints\ConstraintInterface::addError(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/ConstraintInterface.php:43
+Deprecation Notice: JsonSchema\Constraints\ConstraintInterface::addError(): Implicitly marking parameter $more as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/ConstraintInterface.php:43
+Deprecation Notice: JsonSchema\Constraints\ConstraintInterface::check(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/ConstraintInterface.php:64
+Deprecation Notice: JsonSchema\SchemaStorage::__construct(): Implicitly marking parameter $uriRetriever as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/SchemaStorage.php:19
+Deprecation Notice: JsonSchema\SchemaStorage::__construct(): Implicitly marking parameter $uriResolver as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/SchemaStorage.php:19
+Deprecation Notice: JsonSchema\Constraints\SchemaConstraint::check(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/SchemaConstraint.php:31
+Deprecation Notice: JsonSchema\Constraints\UndefinedConstraint::check(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/UndefinedConstraint.php:33
+Deprecation Notice: strlen(): Passing null to parameter #1 ($string) of type string is deprecated in /usr/share/php/JsonSchema/Constraints/Constraint.php:48
+Deprecation Notice: JsonSchema\Constraints\TypeConstraint::check(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/TypeConstraint.php:42
+Deprecation Notice: JsonSchema\Constraints\ObjectConstraint::check(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/ObjectConstraint.php:30
+Deprecation Notice: JsonSchema\Constraints\ObjectConstraint::validatePatternProperties(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/ObjectConstraint.php:54
+Deprecation Notice: JsonSchema\Constraints\ObjectConstraint::validateElement(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/ObjectConstraint.php:93
+Deprecation Notice: JsonSchema\Constraints\ObjectConstraint::validateProperties(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/ObjectConstraint.php:135
+Deprecation Notice: JsonSchema\Constraints\ObjectConstraint::validateMinMaxConstraint(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/ObjectConstraint.php:177
+Deprecation Notice: JsonSchema\Constraints\StringConstraint::check(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/StringConstraint.php:25
+Deprecation Notice: JsonSchema\Constraints\FormatConstraint::check(): Implicitly marking parameter $path as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/JsonSchema/Constraints/FormatConstraint.php:27
+Deprecation Notice: Composer\Config::prohibitUrlByConfig(): Implicitly marking parameter $io as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Config.php:464
+Deprecation Notice: Constant E_STRICT is deprecated in /usr/share/php/Composer/Util/Silencer.php:36
+Deprecation Notice: Composer\Util\ProcessExecutor::__construct(): Implicitly marking parameter $io as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Util/ProcessExecutor.php:48
+Deprecation Notice: Composer\Util\StreamContextFactory::getTlsDefaults(): Implicitly marking parameter $logger as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Util/StreamContextFactory.php:134
+Deprecation Notice: Composer\CaBundle\CaBundle::getSystemCaRootBundlePath(): Implicitly marking parameter $logger as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/CaBundle/CaBundle.php:67
+Deprecation Notice: Composer\CaBundle\CaBundle::validateCaFile(): Implicitly marking parameter $logger as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/CaBundle/CaBundle.php:161
+Deprecation Notice: Composer\CaBundle\CaBundle::caFileUsable(): Implicitly marking parameter $logger as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/CaBundle/CaBundle.php:340
+Deprecation Notice: Composer\Util\RemoteFilesystem::__construct(): Implicitly marking parameter $authHelper as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Util/RemoteFilesystem.php:61
+Deprecation Notice: Composer\Util\RemoteFilesystem::getRemoteContents(): Implicitly marking parameter $responseHeaders as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Util/RemoteFilesystem.php:541
+Deprecation Notice: Composer\Util\Loop::__construct(): Implicitly marking parameter $processExecutor as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Util/Loop.php:32
+Deprecation Notice: Composer\Util\Loop::wait(): Implicitly marking parameter $progress as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Util/Loop.php:59
+Deprecation Notice: Composer\EventDispatcher\EventDispatcher::__construct(): Implicitly marking parameter $process as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/EventDispatcher/EventDispatcher.php:64
+Deprecation Notice: Composer\EventDispatcher\EventDispatcher::dispatch(): Implicitly marking parameter $event as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/EventDispatcher/EventDispatcher.php:80
+Deprecation Notice: Composer\Repository\RepositoryFactory::fromString(): Implicitly marking parameter $rm as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/RepositoryFactory.php:66
+Deprecation Notice: Composer\Repository\RepositoryFactory::createRepo(): Implicitly marking parameter $rm as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/RepositoryFactory.php:79
+Deprecation Notice: Composer\Repository\RepositoryFactory::defaultRepos(): Implicitly marking parameter $io as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/RepositoryFactory.php:95
+Deprecation Notice: Composer\Repository\RepositoryFactory::defaultRepos(): Implicitly marking parameter $config as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/RepositoryFactory.php:95
+Deprecation Notice: Composer\Repository\RepositoryFactory::defaultRepos(): Implicitly marking parameter $rm as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/RepositoryFactory.php:95
+Deprecation Notice: Composer\Repository\RepositoryFactory::manager(): Implicitly marking parameter $eventDispatcher as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/RepositoryFactory.php:120
+Deprecation Notice: Composer\Repository\RepositoryFactory::manager(): Implicitly marking parameter $process as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/RepositoryFactory.php:120
+Deprecation Notice: Composer\Repository\RepositoryManager::__construct(): Implicitly marking parameter $eventDispatcher as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/RepositoryManager.php:48
+Deprecation Notice: Composer\Repository\RepositoryManager::__construct(): Implicitly marking parameter $process as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/RepositoryManager.php:48
+Deprecation Notice: Composer\Package\Loader\RootPackageLoader::__construct(): Implicitly marking parameter $parser as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Package/Loader/RootPackageLoader.php:51
+Deprecation Notice: Composer\Package\Loader\RootPackageLoader::__construct(): Implicitly marking parameter $versionGuesser as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Package/Loader/RootPackageLoader.php:51
+Deprecation Notice: Composer\Package\Loader\RootPackageLoader::__construct(): Implicitly marking parameter $io as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Package/Loader/RootPackageLoader.php:51
+Deprecation Notice: Composer\Package\Loader\ArrayLoader::__construct(): Implicitly marking parameter $parser as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Package/Loader/ArrayLoader.php:31
+Deprecation Notice: Composer\Package\Loader\ValidatingArrayLoader::__construct(): Implicitly marking parameter $parser as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Package/Loader/ValidatingArrayLoader.php:38
+Deprecation Notice: Composer\Repository\PlatformRepository::__construct(): Implicitly marking parameter $runtime as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/PlatformRepository.php:52
+Deprecation Notice: Composer\Repository\PlatformRepository::__construct(): Implicitly marking parameter $hhvmDetector as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/PlatformRepository.php:52
+Deprecation Notice: Return type of Composer\Repository\ArrayRepository::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/Repository/ArrayRepository.php:277
+Deprecation Notice: Symfony\Component\Process\Process::__construct(): Implicitly marking parameter $cwd as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Process/Process.php:140
+Deprecation Notice: Symfony\Component\Process\Process::__construct(): Implicitly marking parameter $env as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Process/Process.php:140
+Deprecation Notice: Symfony\Component\Process\Process::fromShellCommandline(): Implicitly marking parameter $cwd as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Process/Process.php:193
+Deprecation Notice: Symfony\Component\Process\Process::fromShellCommandline(): Implicitly marking parameter $env as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Process/Process.php:193
+Deprecation Notice: Symfony\Component\Process\Process::run(): Implicitly marking parameter $callback as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Process/Process.php:244
+Deprecation Notice: Symfony\Component\Process\Process::mustRun(): Implicitly marking parameter $callback as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Process/Process.php:263
+Deprecation Notice: Symfony\Component\Process\Process::start(): Implicitly marking parameter $callback as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Process/Process.php:291
+Deprecation Notice: Symfony\Component\Process\Process::restart(): Implicitly marking parameter $callback as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Process/Process.php:385
+Deprecation Notice: Symfony\Component\Process\Process::wait(): Implicitly marking parameter $callback as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Process/Process.php:412
+Deprecation Notice: Symfony\Component\Process\Process::buildCallback(): Implicitly marking parameter $callback as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Process/Process.php:1334
+Deprecation Notice: Return type of Symfony\Component\Process\Process::getIterator($flags = 0) should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Process/Process.php:622
+Deprecation Notice: Composer\Util\Svn::__construct(): Implicitly marking parameter $process as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Util/Svn.php:77
+Deprecation Notice: Composer\Repository\ComposerRepository::__construct(): Implicitly marking parameter $eventDispatcher as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/ComposerRepository.php:96
+Deprecation Notice: Composer\Repository\ComposerRepository::whatProvides(): Implicitly marking parameter $acceptableStabilities as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/ComposerRepository.php:533
+Deprecation Notice: Composer\Repository\ComposerRepository::whatProvides(): Implicitly marking parameter $stabilityFlags as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/ComposerRepository.php:533
+Deprecation Notice: Composer\Repository\ComposerRepository::loadAsyncPackages(): Implicitly marking parameter $acceptableStabilities as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/ComposerRepository.php:689
+Deprecation Notice: Composer\Repository\ComposerRepository::loadAsyncPackages(): Implicitly marking parameter $stabilityFlags as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/ComposerRepository.php:689
+Deprecation Notice: Composer\Repository\ComposerRepository::isVersionAcceptable(): Implicitly marking parameter $acceptableStabilities as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/ComposerRepository.php:792
+Deprecation Notice: Composer\Repository\ComposerRepository::isVersionAcceptable(): Implicitly marking parameter $stabilityFlags as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/ComposerRepository.php:792
+Deprecation Notice: Composer\Cache::__construct(): Implicitly marking parameter $filesystem as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Cache.php:42
+Deprecation Notice: Composer\Util\Filesystem::__construct(): Implicitly marking parameter $executor as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Util/Filesystem.php:29
+Deprecation Notice: Composer\Repository\FilesystemRepository::__construct(): Implicitly marking parameter $rootPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/FilesystemRepository.php:43
+Deprecation Notice: Return type of Composer\Repository\ArrayRepository::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/Repository/ArrayRepository.php:277
+Deprecation Notice: Return type of Composer\Repository\ArrayRepository::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/Repository/ArrayRepository.php:277
+Deprecation Notice: Composer\Installer\InstallationManager::__construct(): Implicitly marking parameter $eventDispatcher as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/InstallationManager.php:55
+Deprecation Notice: Composer\Downloader\DownloadManager::__construct(): Implicitly marking parameter $filesystem as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/DownloadManager.php:48
+Deprecation Notice: Composer\Downloader\DownloadManager::download(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/DownloadManager.php:182
+Deprecation Notice: Composer\Downloader\DownloadManager::prepare(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/DownloadManager.php:252
+Deprecation Notice: Composer\Downloader\DownloadManager::cleanup(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/DownloadManager.php:363
+Deprecation Notice: Composer\Downloader\DownloadManager::getAvailableSources(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/DownloadManager.php:398
+Deprecation Notice: Composer\Downloader\GitDownloader::__construct(): Implicitly marking parameter $process as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/GitDownloader.php:50
+Deprecation Notice: Composer\Downloader\GitDownloader::__construct(): Implicitly marking parameter $fs as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/GitDownloader.php:50
+Deprecation Notice: Composer\Downloader\GitDownloader::doDownload(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/GitDownloader.php:59
+Deprecation Notice: Composer\Downloader\VcsDownloader::__construct(): Implicitly marking parameter $process as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/VcsDownloader.php:44
+Deprecation Notice: Composer\Downloader\VcsDownloader::__construct(): Implicitly marking parameter $fs as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/VcsDownloader.php:44
+Deprecation Notice: Composer\Downloader\VcsDownloader::download(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/VcsDownloader.php:63
+Deprecation Notice: Composer\Downloader\VcsDownloader::prepare(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/VcsDownloader.php:94
+Deprecation Notice: Composer\Downloader\VcsDownloader::cleanup(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/VcsDownloader.php:109
+Deprecation Notice: Composer\Downloader\VcsDownloader::doDownload(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/VcsDownloader.php:275
+Deprecation Notice: Composer\Downloader\DownloaderInterface::download(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/DownloaderInterface.php:38
+Deprecation Notice: Composer\Downloader\DownloaderInterface::prepare(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/DownloaderInterface.php:54
+Deprecation Notice: Composer\Downloader\DownloaderInterface::cleanup(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/DownloaderInterface.php:94
+Deprecation Notice: Composer\Downloader\SvnDownloader::doDownload(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/SvnDownloader.php:31
+Deprecation Notice: Composer\Downloader\FossilDownloader::doDownload(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/FossilDownloader.php:26
+Deprecation Notice: Composer\Downloader\HgDownloader::doDownload(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/HgDownloader.php:27
+Deprecation Notice: Composer\Downloader\PerforceDownloader::doDownload(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/PerforceDownloader.php:30
+Deprecation Notice: Composer\Downloader\ZipDownloader::download(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/ZipDownloader.php:37
+Deprecation Notice: Composer\Downloader\FileDownloader::__construct(): Implicitly marking parameter $eventDispatcher as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/FileDownloader.php:74
+Deprecation Notice: Composer\Downloader\FileDownloader::__construct(): Implicitly marking parameter $cache as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/FileDownloader.php:74
+Deprecation Notice: Composer\Downloader\FileDownloader::__construct(): Implicitly marking parameter $filesystem as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/FileDownloader.php:74
+Deprecation Notice: Composer\Downloader\FileDownloader::__construct(): Implicitly marking parameter $process as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/FileDownloader.php:74
+Deprecation Notice: Composer\Downloader\FileDownloader::download(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/FileDownloader.php:100
+Deprecation Notice: Composer\Downloader\FileDownloader::prepare(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/FileDownloader.php:266
+Deprecation Notice: Composer\Downloader\FileDownloader::cleanup(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/FileDownloader.php:273
+Deprecation Notice: Return type of Symfony\Component\Finder\Finder::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Finder/Finder.php:620
+Deprecation Notice: Return type of Symfony\Component\Finder\Finder::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Finder/Finder.php:701
+Deprecation Notice: Return type of Symfony\Component\Finder\Iterator\FileTypeFilterIterator::accept() should either be compatible with FilterIterator::accept(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Finder/Iterator/FileTypeFilterIterator.php:42
+Deprecation Notice: Return type of Symfony\Component\Finder\Iterator\RecursiveDirectoryIterator::getChildren() should either be compatible with RecursiveDirectoryIterator::getChildren(): RecursiveDirectoryIterator, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Finder/Iterator/RecursiveDirectoryIterator.php:85
+Deprecation Notice: Return type of Symfony\Component\Finder\Iterator\RecursiveDirectoryIterator::rewind() should either be compatible with FilesystemIterator::rewind(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Finder/Iterator/RecursiveDirectoryIterator.php:113
+Deprecation Notice: Return type of Symfony\Component\Finder\Iterator\RecursiveDirectoryIterator::current() should either be compatible with FilesystemIterator::current(): SplFileInfo|FilesystemIterator|string, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Finder/Iterator/RecursiveDirectoryIterator.php:61
+Deprecation Notice: Return type of Symfony\Component\Finder\Iterator\ExcludeDirectoryFilterIterator::accept() should either be compatible with FilterIterator::accept(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Finder/Iterator/ExcludeDirectoryFilterIterator.php:55
+Deprecation Notice: Return type of Symfony\Component\Finder\Iterator\ExcludeDirectoryFilterIterator::hasChildren() should either be compatible with RecursiveIterator::hasChildren(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Finder/Iterator/ExcludeDirectoryFilterIterator.php:74
+Deprecation Notice: Return type of Symfony\Component\Finder\Iterator\ExcludeDirectoryFilterIterator::getChildren() should either be compatible with RecursiveIterator::getChildren(): ?RecursiveIterator, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Finder/Iterator/ExcludeDirectoryFilterIterator.php:79
+Deprecation Notice: Return type of Symfony\Component\Finder\Iterator\DateRangeFilterIterator::accept() should either be compatible with FilterIterator::accept(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Finder/Iterator/DateRangeFilterIterator.php:41
+Deprecation Notice: Return type of Symfony\Component\Finder\Iterator\PathFilterIterator::accept() should either be compatible with FilterIterator::accept(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Finder/Iterator/PathFilterIterator.php:27
+Deprecation Notice: Composer\Downloader\PathDownloader::download(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Downloader/PathDownloader.php:41
+Deprecation Notice: Composer\Autoload\AutoloadGenerator::__construct(): Implicitly marking parameter $io as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Autoload/AutoloadGenerator.php:76
+Deprecation Notice: Using ${var} in strings is deprecated, use {$var} instead in /usr/share/php/Composer/Autoload/AutoloadGenerator.php:777
+Deprecation Notice: Using ${var} in strings is deprecated, use {$var} instead in /usr/share/php/Composer/Autoload/AutoloadGenerator.php:782
+Deprecation Notice: Composer\Installer\BinaryInstaller::__construct(): Implicitly marking parameter $filesystem as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/BinaryInstaller.php:42
+Deprecation Notice: Composer\Installer\LibraryInstaller::__construct(): Implicitly marking parameter $filesystem as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/LibraryInstaller.php:51
+Deprecation Notice: Composer\Installer\LibraryInstaller::__construct(): Implicitly marking parameter $binaryInstaller as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/LibraryInstaller.php:51
+Deprecation Notice: Composer\Installer\LibraryInstaller::download(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/LibraryInstaller.php:92
+Deprecation Notice: Composer\Installer\LibraryInstaller::prepare(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/LibraryInstaller.php:103
+Deprecation Notice: Composer\Installer\LibraryInstaller::cleanup(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/LibraryInstaller.php:114
+Deprecation Notice: Composer\Installer\InstallerInterface::download(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/InstallerInterface.php:53
+Deprecation Notice: Composer\Installer\InstallerInterface::prepare(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/InstallerInterface.php:68
+Deprecation Notice: Composer\Installer\InstallerInterface::cleanup(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/InstallerInterface.php:111
+Deprecation Notice: Composer\Installer\PluginInstaller::__construct(): Implicitly marking parameter $fs as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/PluginInstaller.php:36
+Deprecation Notice: Composer\Installer\PluginInstaller::__construct(): Implicitly marking parameter $binaryInstaller as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/PluginInstaller.php:36
+Deprecation Notice: Composer\Installer\PluginInstaller::download(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/PluginInstaller.php:52
+Deprecation Notice: Composer\Installer\MetapackageInstaller::download(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/MetapackageInstaller.php:55
+Deprecation Notice: Composer\Installer\MetapackageInstaller::prepare(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/MetapackageInstaller.php:63
+Deprecation Notice: Composer\Installer\MetapackageInstaller::cleanup(): Implicitly marking parameter $prevPackage as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/MetapackageInstaller.php:71
+Deprecation Notice: Composer\Plugin\PluginManager::__construct(): Implicitly marking parameter $globalComposer as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Plugin/PluginManager.php:66
+Deprecation Notice: Composer\Package\Locker::__construct(): Implicitly marking parameter $process as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Package/Locker.php:60
+Do not run Composer as root/super user! See https://getcomposer.org/root for details
+Deprecation Notice: Constant E_STRICT is deprecated in /usr/share/php/Composer/Util/Silencer.php:36
+Deprecation Notice: Constant E_STRICT is deprecated in /usr/share/php/Composer/Util/Silencer.php:36
+Deprecation Notice: Composer\Installer::extractDevPackages(): Implicitly marking parameter $lockedRepository as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer.php:545
+Deprecation Notice: Composer\Installer::createRequest(): Implicitly marking parameter $lockedRepository as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer.php:818
+Deprecation Notice: Composer\Installer::requirePackagesForUpdate(): Implicitly marking parameter $lockedRepository as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer.php:849
+Deprecation Notice: Composer\DependencyResolver\Request::__construct(): Implicitly marking parameter $lockedRepository as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/DependencyResolver/Request.php:51
+Deprecation Notice: Composer\DependencyResolver\Request::requireName(): Implicitly marking parameter $constraint as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/DependencyResolver/Request.php:56
+No lock file found. Updating dependencies instead of installing from lock file. Use composer update over composer install if you do not have a lock file.
+Deprecation Notice: Composer\Installer\SuggestedPackagesReporter::output(): Implicitly marking parameter $installedRepo as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/SuggestedPackagesReporter.php:106
+Deprecation Notice: Composer\Installer\SuggestedPackagesReporter::output(): Implicitly marking parameter $onlyDependentsOf as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/SuggestedPackagesReporter.php:106
+Deprecation Notice: Composer\Installer\SuggestedPackagesReporter::outputMinimalistic(): Implicitly marking parameter $installedRepo as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/SuggestedPackagesReporter.php:174
+Deprecation Notice: Composer\Installer\SuggestedPackagesReporter::outputMinimalistic(): Implicitly marking parameter $onlyDependentsOf as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/SuggestedPackagesReporter.php:174
+Deprecation Notice: Composer\Installer\SuggestedPackagesReporter::getFilteredSuggestions(): Implicitly marking parameter $installedRepo as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/SuggestedPackagesReporter.php:189
+Deprecation Notice: Composer\Installer\SuggestedPackagesReporter::getFilteredSuggestions(): Implicitly marking parameter $onlyDependentsOf as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Installer/SuggestedPackagesReporter.php:189
+Deprecation Notice: Composer\Platform\HhvmDetector::__construct(): Implicitly marking parameter $executableFinder as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Platform/HhvmDetector.php:25
+Deprecation Notice: Composer\Platform\HhvmDetector::__construct(): Implicitly marking parameter $processExecutor as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Platform/HhvmDetector.php:25
+Loading composer repositories with package information
+Deprecation Notice: Composer\Repository\RepositorySet::findPackages(): Implicitly marking parameter $constraint as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/RepositorySet.php:152
+Deprecation Notice: Composer\Repository\RepositorySet::createPool(): Implicitly marking parameter $eventDispatcher as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/RepositorySet.php:215
+Deprecation Notice: Composer\Repository\RepositorySet::createPoolForPackage(): Implicitly marking parameter $lockedRepo as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/RepositorySet.php:266
+Deprecation Notice: Composer\Repository\RepositorySet::createPoolForPackages(): Implicitly marking parameter $lockedRepo as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Repository/RepositorySet.php:271
+Deprecation Notice: Composer\DependencyResolver\PoolBuilder::__construct(): Implicitly marking parameter $eventDispatcher as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/DependencyResolver/PoolBuilder.php:114
+Deprecation Notice: React\Promise\Promise::__construct(): Implicitly marking parameter $canceller as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/Promise.php:16
+Deprecation Notice: React\Promise\Promise::then(): Implicitly marking parameter $onFulfilled as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/Promise.php:28
+Deprecation Notice: React\Promise\Promise::then(): Implicitly marking parameter $onRejected as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/Promise.php:28
+Deprecation Notice: React\Promise\Promise::then(): Implicitly marking parameter $onProgress as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/Promise.php:28
+Deprecation Notice: React\Promise\Promise::done(): Implicitly marking parameter $onFulfilled as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/Promise.php:58
+Deprecation Notice: React\Promise\Promise::done(): Implicitly marking parameter $onRejected as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/Promise.php:58
+Deprecation Notice: React\Promise\Promise::done(): Implicitly marking parameter $onProgress as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/Promise.php:58
+Deprecation Notice: React\Promise\Promise::resolver(): Implicitly marking parameter $onFulfilled as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/Promise.php:115
+Deprecation Notice: React\Promise\Promise::resolver(): Implicitly marking parameter $onRejected as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/Promise.php:115
+Deprecation Notice: React\Promise\Promise::resolver(): Implicitly marking parameter $onProgress as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/Promise.php:115
+Deprecation Notice: React\Promise\ExtendedPromiseInterface::done(): Implicitly marking parameter $onFulfilled as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/ExtendedPromiseInterface.php:13
+Deprecation Notice: React\Promise\ExtendedPromiseInterface::done(): Implicitly marking parameter $onRejected as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/ExtendedPromiseInterface.php:13
+Deprecation Notice: React\Promise\ExtendedPromiseInterface::done(): Implicitly marking parameter $onProgress as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/ExtendedPromiseInterface.php:13
+Deprecation Notice: React\Promise\PromiseInterface::then(): Implicitly marking parameter $onFulfilled as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/PromiseInterface.php:13
+Deprecation Notice: React\Promise\PromiseInterface::then(): Implicitly marking parameter $onRejected as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/PromiseInterface.php:13
+Deprecation Notice: React\Promise\PromiseInterface::then(): Implicitly marking parameter $onProgress as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/PromiseInterface.php:13
+Deprecation Notice: React\Promise\FulfilledPromise::then(): Implicitly marking parameter $onFulfilled as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/FulfilledPromise.php:18
+Deprecation Notice: React\Promise\FulfilledPromise::then(): Implicitly marking parameter $onRejected as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/FulfilledPromise.php:18
+Deprecation Notice: React\Promise\FulfilledPromise::then(): Implicitly marking parameter $onProgress as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/FulfilledPromise.php:18
+Deprecation Notice: React\Promise\FulfilledPromise::done(): Implicitly marking parameter $onFulfilled as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/FulfilledPromise.php:33
+Deprecation Notice: React\Promise\FulfilledPromise::done(): Implicitly marking parameter $onRejected as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/FulfilledPromise.php:33
+Deprecation Notice: React\Promise\FulfilledPromise::done(): Implicitly marking parameter $onProgress as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/React/Promise/FulfilledPromise.php:33
+Deprecation Notice: Composer\DependencyResolver\Pool::whatProvides(): Implicitly marking parameter $constraint as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/DependencyResolver/Pool.php:89
+Deprecation Notice: Composer\DependencyResolver\Pool::match(): Implicitly marking parameter $constraint as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/DependencyResolver/Pool.php:148
+Deprecation Notice: Return type of Composer\DependencyResolver\Pool::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/Pool.php:76
+Updating dependencies
+Deprecation Notice: Composer\DependencyResolver\RuleSetGenerator::addRule(): Implicitly marking parameter $newRule as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/DependencyResolver/RuleSetGenerator.php:136
+Deprecation Notice: Composer\DependencyResolver\RuleSet::getPrettyString(): Implicitly marking parameter $repositorySet as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/DependencyResolver/RuleSet.php:160
+Deprecation Notice: Composer\DependencyResolver\RuleSet::getPrettyString(): Implicitly marking parameter $request as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/DependencyResolver/RuleSet.php:160
+Deprecation Notice: Composer\DependencyResolver\RuleSet::getPrettyString(): Implicitly marking parameter $pool as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/DependencyResolver/RuleSet.php:160
+Deprecation Notice: Return type of Composer\DependencyResolver\RuleSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/RuleSet.php:116
+Deprecation Notice: Return type of Composer\DependencyResolver\RuleSet::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/RuleSet.php:101
+Deprecation Notice: Composer\DependencyResolver\Decisions::toString(): Implicitly marking parameter $pool as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/DependencyResolver/Decisions.php:200
+Deprecation Notice: Return type of Composer\DependencyResolver\Decisions::current() should either be compatible with Iterator::current(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/Decisions.php:155
+Deprecation Notice: Return type of Composer\DependencyResolver\Decisions::next() should either be compatible with Iterator::next(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/Decisions.php:165
+Deprecation Notice: Return type of Composer\DependencyResolver\Decisions::key() should either be compatible with Iterator::key(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/Decisions.php:160
+Deprecation Notice: Return type of Composer\DependencyResolver\Decisions::valid() should either be compatible with Iterator::valid(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/Decisions.php:170
+Deprecation Notice: Return type of Composer\DependencyResolver\Decisions::rewind() should either be compatible with Iterator::rewind(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/Decisions.php:150
+Deprecation Notice: Return type of Composer\DependencyResolver\Decisions::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/Decisions.php:145
+Deprecation Notice: Return type of Composer\DependencyResolver\RuleSetIterator::current() should either be compatible with Iterator::current(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/RuleSetIterator.php:36
+Deprecation Notice: Return type of Composer\DependencyResolver\RuleSetIterator::next() should either be compatible with Iterator::next(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/RuleSetIterator.php:46
+Deprecation Notice: Return type of Composer\DependencyResolver\RuleSetIterator::key() should either be compatible with Iterator::key(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/RuleSetIterator.php:41
+Deprecation Notice: Return type of Composer\DependencyResolver\RuleSetIterator::valid() should either be compatible with Iterator::valid(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/RuleSetIterator.php:89
+Deprecation Notice: Return type of Composer\DependencyResolver\RuleSetIterator::rewind() should either be compatible with Iterator::rewind(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/DependencyResolver/RuleSetIterator.php:70
+Lock file operations: 54 installs, 0 updates, 0 removals
+  - Locking dompdf/dompdf (v2.0.8)
+  - Locking firebase/php-jwt (v6.11.1)
+  - Locking graham-campbell/result-type (v1.1.3)
+  - Locking guzzlehttp/guzzle (7.9.3)
+  - Locking guzzlehttp/promises (2.2.0)
+  - Locking guzzlehttp/psr7 (2.7.1)
+  - Locking league/container (4.2.5)
+  - Locking masterminds/html5 (2.10.0)
+  - Locking monolog/monolog (3.9.0)
+  - Locking myclabs/deep-copy (1.13.4)
+  - Locking nikic/php-parser (v5.6.1)
+  - Locking phar-io/manifest (2.0.4)
+  - Locking phar-io/version (3.2.1)
+  - Locking phenx/php-font-lib (0.5.6)
+  - Locking phenx/php-svg-lib (0.5.4)
+  - Locking phpmailer/phpmailer (v6.10.0)
+  - Locking phpoption/phpoption (1.9.3)
+  - Locking phpunit/php-code-coverage (10.1.16)
+  - Locking phpunit/php-file-iterator (4.1.0)
+  - Locking phpunit/php-invoker (4.0.0)
+  - Locking phpunit/php-text-template (3.0.1)
+  - Locking phpunit/php-timer (6.0.0)
+  - Locking phpunit/phpunit (10.5.52)
+  - Locking psr/container (2.0.2)
+  - Locking psr/http-client (1.0.3)
+  - Locking psr/http-factory (1.1.0)
+  - Locking psr/http-message (2.0)
+  - Locking psr/log (3.0.2)
+  - Locking ralouphie/getallheaders (3.0.3)
+  - Locking respect/stringifier (0.2.0)
+  - Locking respect/validation (2.4.4)
+  - Locking sabberworm/php-css-parser (v8.9.0)
+  - Locking sebastian/cli-parser (2.0.1)
+  - Locking sebastian/code-unit (2.0.0)
+  - Locking sebastian/code-unit-reverse-lookup (3.0.0)
+  - Locking sebastian/comparator (5.0.3)
+  - Locking sebastian/complexity (3.2.0)
+  - Locking sebastian/diff (5.1.1)
+  - Locking sebastian/environment (6.1.0)
+  - Locking sebastian/exporter (5.1.2)
+  - Locking sebastian/global-state (6.0.2)
+  - Locking sebastian/lines-of-code (2.0.2)
+  - Locking sebastian/object-enumerator (5.0.0)
+  - Locking sebastian/object-reflector (3.0.0)
+  - Locking sebastian/recursion-context (5.0.1)
+  - Locking sebastian/type (4.0.0)
+  - Locking sebastian/version (4.0.1)
+  - Locking squizlabs/php_codesniffer (3.13.2)
+  - Locking symfony/deprecation-contracts (v3.6.0)
+  - Locking symfony/polyfill-ctype (v1.32.0)
+  - Locking symfony/polyfill-mbstring (v1.32.0)
+  - Locking symfony/polyfill-php80 (v1.32.0)
+  - Locking theseer/tokenizer (1.2.3)
+  - Locking vlucas/phpdotenv (v5.6.2)
+Writing lock file
+Installing dependencies from lock file
+Package operations: 27 installs, 0 updates, 0 removals
+  - Downloading phenx/php-svg-lib (0.5.4)
+  - Downloading phenx/php-font-lib (0.5.6)
+  - Downloading dompdf/dompdf (v2.0.8)
+  - Downloading psr/http-message (2.0)
+  - Downloading psr/http-client (1.0.3)
+  - Downloading psr/http-factory (1.1.0)
+  - Downloading league/container (4.2.5)
+  - Downloading monolog/monolog (3.9.0)
+  - Downloading respect/stringifier (0.2.0)
+  - Downloading respect/validation (2.4.4)
+  - Downloading symfony/polyfill-php80 (v1.32.0)
+  - Downloading phpoption/phpoption (1.9.3)
+  - Downloading graham-campbell/result-type (v1.1.3)
+  - Downloading vlucas/phpdotenv (v5.6.2)
+Deprecation Notice: Symfony\Component\Console\Helper\ProgressBar::iterate(): Implicitly marking parameter $max as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Helper/ProgressBar.php:274
+Deprecation Notice: Symfony\Component\Console\Helper\ProgressBar::start(): Implicitly marking parameter $max as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Symfony/Component/Console/Helper/ProgressBar.php:292
+  0/14 [>---------------------------]   0%
+  4/14 [========>-------------------]  28%
+  7/14 [==============>-------------]  50%
+ 13/14 [==========================>-]  92%
+ 14/14 [============================] 100%  - Installing sabberworm/php-css-parser (v8.9.0): Extracting archive
+Deprecation Notice: Return type of Symfony\Component\Finder\Iterator\DepthRangeFilterIterator::accept() should either be compatible with FilterIterator::accept(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Finder/Iterator/DepthRangeFilterIterator.php:41
+  - Installing symfony/polyfill-mbstring (v1.32.0): Extracting archive
+  - Installing phenx/php-svg-lib (0.5.4): Extracting archive
+  - Installing phenx/php-font-lib (0.5.6): Extracting archive
+  - Installing masterminds/html5 (2.10.0): Extracting archive
+  - Installing dompdf/dompdf (v2.0.8): Extracting archive
+  - Installing firebase/php-jwt (v6.11.1): Extracting archive
+  - Installing symfony/deprecation-contracts (v3.6.0): Extracting archive
+  - Installing psr/http-message (2.0): Extracting archive
+  - Installing psr/http-client (1.0.3): Extracting archive
+  - Installing ralouphie/getallheaders (3.0.3): Extracting archive
+  - Installing psr/http-factory (1.1.0): Extracting archive
+  - Installing guzzlehttp/psr7 (2.7.1): Extracting archive
+  - Installing guzzlehttp/promises (2.2.0): Extracting archive
+  - Installing guzzlehttp/guzzle (7.9.3): Extracting archive
+  - Installing psr/container (2.0.2): Extracting archive
+  - Installing league/container (4.2.5): Extracting archive
+  - Installing psr/log (3.0.2): Extracting archive
+  - Installing monolog/monolog (3.9.0): Extracting archive
+  - Installing symfony/polyfill-ctype (v1.32.0): Extracting archive
+  - Installing phpmailer/phpmailer (v6.10.0): Extracting archive
+  - Installing respect/stringifier (0.2.0): Extracting archive
+  - Installing respect/validation (2.4.4): Extracting archive
+  - Installing symfony/polyfill-php80 (v1.32.0): Extracting archive
+  - Installing phpoption/phpoption (1.9.3): Extracting archive
+  - Installing graham-campbell/result-type (v1.1.3): Extracting archive
+  - Installing vlucas/phpdotenv (v5.6.2): Extracting archive
+  0/27 [>---------------------------]   0%Deprecation Notice: Return type of Symfony\Component\Finder\Iterator\FilenameFilterIterator::accept() should either be compatible with FilterIterator::accept(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Symfony/Component/Finder/Iterator/FilenameFilterIterator.php:28
+
+ 12/27 [============>---------------]  44%
+ 22/27 [======================>-----]  81%
+ 27/27 [============================] 100%Deprecation Notice: Return type of Composer\Repository\CompositeRepository::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in /usr/share/php/Composer/Repository/CompositeRepository.php:180
+25 package suggestions were added by new dependencies, use `composer suggest` to see details.
+Generating optimized autoload files
+Deprecation Notice: Composer\Autoload\ClassMapGenerator::createMap(): Implicitly marking parameter $io as nullable is deprecated, the explicit nullable type must be used instead in /usr/share/php/Composer/Autoload/ClassMapGenerator.php:62
+Class App\Plugins\PluginManager located in ./app/plugins/PluginManager.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Controllers\BackupController located in ./app/controllers/BackupController.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Helpers\BackupHelper located in ./app/controllers/BackupHelper.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Controllers\OrderController located in ./app/controllers/OrderController.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Controllers\ApiController located in ./app/controllers/ApiController.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Models\Product located in ./app/models/Product.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Config\Database located in ./app/config/Database.php does not comply with psr-4 autoloading standard. Skipping.
+Class App\Config\Routes located in ./app/config/Routes.php does not comply with psr-4 autoloading standard. Skipping.
+13 packages you are using are looking for funding.
+Use the `composer fund` command to find out more!
+
+[2025-08-18 10:43:34] Executing: npm install --production --silent
+[2025-08-18 10:43:38] Output: 
